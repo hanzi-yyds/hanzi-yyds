@@ -1,4 +1,6 @@
 ## Hi there 👋
+大家好，希望在学习Java开发的路上可以一起共同成长，为Java开发贡献自己的力量。
+我的CSDN博客: https://blog.csdn.net/m0_73978383
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzi-yyds)
 
 <!--
