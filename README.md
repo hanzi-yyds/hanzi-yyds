@@ -1,7 +1,9 @@
-## Hi there 👋
-大家好，希望在学习Java开发的路上可以一起共同成长，为Java开发贡献自己的力量。
-我的CSDN博客: https://blog.csdn.net/m0_73978383
+## 个人简介 👋
+大家好，希望在学习Java开发的路上可以一起共同成长，为Java开发贡献自己的力量。我的CSDN博客: https://blog.csdn.net/m0_73978383
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzi-yyds)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzi-yyds)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+
 
 <!--
 **hanzi-yyds/hanzi-yyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
